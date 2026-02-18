@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/e96fef34-ecbd-4371-863a-cab7e3a16ee4
 
-- arXiv: todo
+- arXiv: https://arxiv.org/abs/2602.15828
 - Project Page: https://dex4d.github.io
 - Codebase:
     - Simulation: https://github.com/Dex4D/Dex4D-Simulation
