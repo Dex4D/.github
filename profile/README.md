@@ -1,4 +1,4 @@
-# Dex4D: Task-Agnostic Point Track Policy for Sim-to-Real Dexterous Manipulation
+# Dex4D: Task-Agnostic Point Track Policy for Zero-Shot Dexterous Manipulation
 
 https://github.com/user-attachments/assets/e96fef34-ecbd-4371-863a-cab7e3a16ee4
 
